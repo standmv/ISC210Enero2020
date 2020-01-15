@@ -1,0 +1,5 @@
+/Users/StanDeMoya/Documents/GitHub/ISC210Enero2020/AdivinaNumero/AdivinaNumero/bin/Debug/AdivinaNumero.exe
+/Users/StanDeMoya/Documents/GitHub/ISC210Enero2020/AdivinaNumero/AdivinaNumero/bin/Debug/AdivinaNumero.pdb
+/Users/StanDeMoya/Documents/GitHub/ISC210Enero2020/AdivinaNumero/AdivinaNumero/obj/Debug/AdivinaNumero.csprojAssemblyReference.cache
+/Users/StanDeMoya/Documents/GitHub/ISC210Enero2020/AdivinaNumero/AdivinaNumero/obj/Debug/AdivinaNumero.exe
+/Users/StanDeMoya/Documents/GitHub/ISC210Enero2020/AdivinaNumero/AdivinaNumero/obj/Debug/AdivinaNumero.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{986F9250-4E09-4942-84C5-C1065953F07C}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdivinaNumero FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdivinaNumero/Game.cs">
+    <Files>
+      <File FileName="AdivinaNumero/Program.cs" Line="9" Column="47" />
+      <File FileName="AdivinaNumero/Game.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdivinaNumero" expanded="True">
+            <Node name="AdivinaNumero" expanded="True">
+              <Node name="Game.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
