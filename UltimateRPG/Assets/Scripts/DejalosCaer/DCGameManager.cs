@@ -46,7 +46,7 @@ public class DCGameManager : MonoBehaviour
             Scores newScore = new Scores
             {
                 name = "Stanley",
-                score = Score
+                score = this.Score
             };
 
             StartCoroutine(PostRequest("http://localhost:8080/scores", JsonUtility.ToJson(newScore)));
