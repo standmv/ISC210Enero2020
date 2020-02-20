@@ -8,6 +8,9 @@ TagManager:
   - Green
   - Pink
   - Purple
+  - Cube
+  - Trap
+  - Live
   layers:
   - Default
   - TransparentFX
