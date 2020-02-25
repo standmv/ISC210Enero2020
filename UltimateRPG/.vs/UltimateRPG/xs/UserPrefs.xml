@@ -1,10 +1,7 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DejalosCaer/CubesBehaviour.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UltimateEssence/ImageScrollBehaviour.cs">
     <Files>
-      <File FileName="Assets/Scripts/DejalosCaer/CubesBehaviour.cs" Line="17" Column="49" />
-      <File FileName="Assets/Scripts/DejalosCaer/DCPlayerController.cs" Line="36" Column="23" />
-      <File FileName="Assets/Scripts/DejalosCaer/DCDeadzoneController.cs" Line="24" Column="35" />
-      <File FileName="Assets/Scripts/DejalosCaer/DCGameManager.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/UltimateEssence/ImageScrollBehaviour.cs" Line="19" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,10 +10,9 @@
             <Node name="Assembly-CSharp" expanded="True">
               <Node name="Assets" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="DejalosCaer" expanded="True">
-                    <Node name="CubesBehaviour.cs" selected="True" />
+                  <Node name="UltimateEssence" expanded="True">
+                    <Node name="ImageScrollBehaviour.cs" selected="True" />
                   </Node>
-                  <Node name="TapOnTheBlocks" expanded="True" />
                 </Node>
               </Node>
             </Node>
