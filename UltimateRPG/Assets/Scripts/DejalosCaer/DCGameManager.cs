@@ -136,7 +136,7 @@ public class DCGameManager : MonoBehaviour
             yield return webRequest.SendWebRequest();
 
             WebScoresText.gameObject.GetComponent<TextMesh>().text = "Puntaje: /n" + JsonUtility.FromJson<Scores>(webRequest.downloadHandler.text);
-            scoresList.Add(JsonUtility.FromJson<Scores>(webRequest.downloadHandler.text));
+            scoresList.AddRange(JsonUtility.FromJson<IEnumerable<Scores>>(webRequest.downloadHandler.text));
             foreach(Scores scr in scoresList)
             {
                 Debug.Log("Nombre: " + scr.name + "Puntaje: " + scr.score.ToString());
