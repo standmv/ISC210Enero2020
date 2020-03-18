@@ -11,6 +11,7 @@ TagManager:
   - Cube
   - Trap
   - Live
+  - Pipe
   layers:
   - Default
   - TransparentFX
