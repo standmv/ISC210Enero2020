@@ -16,7 +16,7 @@ namespace AssemblyCSharp.Assets.Scripts.Exploration.Entities
 
         public BaseGameObject(GameObject prefab, string uniqueObjectName, float posX, float posY)
         {
-            _gObjectRef = UnityEngine.Object.Instantiate(prefab, new Vector3(posX, posY), Quaternion.identity);
+            _gObjectRef = UnityEngine.Object.Instantiate(prefab, new Vector3(posX, -posY), Quaternion.identity);
             _gObjectRef.name = uniqueObjectName;
         }
 

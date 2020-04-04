@@ -8,7 +8,12 @@ using UnityEngine;
 public class MapManagement : MonoBehaviour
 {
     XmlDocument xmlDocument;
-    
+    string xmlPath = "Exploration/Level1_justmap";
+
+    GameObject TilesParent;
+    GameObject CharactersParent;
+    GameObject ItemsParent;
+
     public GameObject A;
     public GameObject B;
     public GameObject C;
@@ -94,24 +99,27 @@ public class MapManagement : MonoBehaviour
             {'v', v }
         };
 
-       /* CharactersPrefabs = new Dictionary<string, GameObject>
-        {
-            { "Player", PlayerPrefab },
-            {"Morah", MorahPrefab },
-            {"Lionel", LionelPrefab },
-            {"Yuyu", YuyuPrefab},
-            {"Enemy1", Enemy1Prefab }
-        };
+        /* CharactersPrefabs = new Dictionary<string, GameObject>
+         {
+             { "Player", PlayerPrefab },
+             {"Morah", MorahPrefab },
+             {"Lionel", LionelPrefab },
+             {"Yuyu", YuyuPrefab},
+             {"Enemy1", Enemy1Prefab }
+         };
 
-        ItemsPrefabs = new Dictionary<string, GameObject>
-        {
-            {"ChestBanana", ChestBananaPrefab },
-            {"ChestCherry", ChestCherryPrefab },
-            {"ChestGrape", ChestGrapePrefab },
-            {"ChestLemon", ChestLemonPrefab },
-            {"ChestOrange", ChestOrangePrefab },
-            {"ChestSeaweed", ChestSeaweedPrefab }
-        }; */
+         ItemsPrefabs = new Dictionary<string, GameObject>
+         {
+             {"ChestBanana", ChestBananaPrefab },
+             {"ChestCherry", ChestCherryPrefab },
+             {"ChestGrape", ChestGrapePrefab },
+             {"ChestLemon", ChestLemonPrefab },
+             {"ChestOrange", ChestOrangePrefab },
+             {"ChestSeaweed", ChestSeaweedPrefab }
+         }; */
+
+        xmlDocument = new XmlDocument();
+        xmlDocument.LoadXml(Resources.Load<TextAsset>(xmlPath).text);
 
         //Physics.IgnoreLayerCollision();
         //Vector 3.DiSTANCE
@@ -121,14 +129,15 @@ public class MapManagement : MonoBehaviour
     void Start()
     {
         Game.CurrentLevel = new Level();
-
-        xmlDocument = new XmlDocument();
-        xmlDocument.LoadXml(Resources.Load<TextAsset>("Exploration/Level1_justmap").text);
-
+        TilesParent = GameObject.Find("Tiles");
+        CharactersParent = GameObject.Find("Characters");
+        ItemsParent = GameObject.Find("Items");
         InitializeMap();
         LoadMap(0, 127, 0, 40);
         //LoadCharacters();
         //LoadItems();
+
+
     }
 
     void InitializeMap()
@@ -159,6 +168,7 @@ public class MapManagement : MonoBehaviour
             {
                 newTile = new Tile(TilesPrefabs[currentNode.InnerText[xFrom]], currentNode.InnerText[xFrom] + "," + xFrom.ToString() + "," + yFrom, xFrom, yFrom);
                 Game.CurrentLevel.Map.Tiles.Add(newTile);
+                newTile.GetObject().transform.SetParent(TilesParent.transform);
             }
             yFrom++;
         }
@@ -181,7 +191,12 @@ public class MapManagement : MonoBehaviour
 
                 );
             Game.CurrentLevel.Characters.Add(newCharacter);
-            
+            newCharacter.GetObject().transform.SetParent(CharactersParent.transform);
+            if (newCharacter.Tag == "Player")
+            {
+                Camera.main.transform.SetParent(newCharacter.GetObject().transform);
+                Camera.main.transform.localPosition = new Vector3(0, 0, Camera.main.transform.position.z);
+            }
            
         }
 
@@ -204,7 +219,7 @@ public class MapManagement : MonoBehaviour
 
                 );
             Game.CurrentLevel.Items.Add(newItem);
-
+            newItem.GetObject().transform.SetParent(ItemsParent.transform);
 
         }
 
