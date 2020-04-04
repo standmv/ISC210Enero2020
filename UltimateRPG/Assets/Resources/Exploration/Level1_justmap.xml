@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<map width="128" height="40" tilewidth="64" tileheight="64">
+	<row><![CDATA[oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooKKMTLMTKKKKKKKoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooKKKKKKKKKKKKo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooaBvBvBBvBvbEvboooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooavvABBABAABbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDboooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCDDbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDboooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCdDbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCDbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooaBABbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooaCCCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooaDDCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooKKNKKNKKNKcCCCCCCCCCfMCLKKKKcCCCfKKKKKKKKKKKKKoooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaAvAAvABABvCCCCCCCCCCBCBBBBBCCCCCBBBBDDBBBBBBboooooooooooooooooooooooooooooooooooooooooooooooaDCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooaDDCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCfKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKcCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCBBBBBBBvBvBBvBBBBBvBBvBBBBBvBBvBBBBBBBBBBBBBvBBCCCCCCCCCCCbo]]></row>
+	<row><![CDATA[KKNNKNKNKKNKKNKKKKKKKKcCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCCCCCCdCCCCCCCCCCCDCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ABABvvBBABBABAvBAABABvCCCCCCCbNNNNNNaCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCCCCCCdCCCCCCCCCCCDDCCCCCCCCCDDCCCCCCCCCCDCCCCCCCCCCCCCCCCCbo]]></row>
+	<row><![CDATA[CFCCCFCCCCCCCCCCDCCCCCCCCCCCCbooooooaCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCdDCCCCCCCCCCCCCCCCCCCCCCCCCCCCbo]]></row>
+	<row><![CDATA[CCCCCCCCCCCCCCCCCCCCCCCCCCCCCboNNNNoaCCCCCCCCCCCCCCCCCCCCCCbKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKabKKKKKKabKKKKKaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[CCCCCCCCCCCCDCCCCCCCDCCCCCCCCboaBBboaCCCCCCCCCCCCCCCCCCCCCCbooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[CCCCCCCFCCCCDDCCCCCCCCCCCCCCCboaDDboaCCCCCCCCCCCCCCCCCCCCCCbooooooooooooooooooooooooooooooooooooooooabooooooaboooooaDDCCCCCCCCbo]]></row>
+	<row><![CDATA[CCCCCCCCCCCCCCCCCCFCCDCCCCCCCboaDDboaCCCCCCCCCCCCCCCCCCCCCCbooooooooooooooooooooooooooooooooooooooooabooooooaboooooaDDCCCCCCCCbo]]></row>
+	<row><![CDATA[CCCCCCCCCCCCCCCCCCCCCCCCCCCCCboKKKKoaCCCCCCCCCCCCCCCbKKKKKKKooooooooooooooooooooooooooooooooooooooooabooooooaboooooaDCCCCCCCCCbo]]></row>
+	<row><![CDATA[CCCCCCCCCCCCDCCCCCCCCCCCCCCCCbooooooaCCCCCCCCCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[CCCCCCDCCCFCCCCCCCCCCFCCCCCCCfNNNNNNcCCCCCCCCCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[CCDCCCCCCCCCFCCCDCCCFCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCDDCbo]]></row>
+	<row><![CDATA[CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDCCCCCCCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCDCbo]]></row>
+	<row><![CDATA[KKNKKNKKKNKKKNKNKKNKKNaCCCCCCCCCCCCCCDbKKKKKaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCbKKKKKKKKKKaCboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCbooooooooooaCboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabKKKKKKcfKKKKKcCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboKKKTTLKKoaCboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooaDDvDDDDDDDvDDDDDDDDDDDDDDbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboavBABAvboaDboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooKKKKKKKKKKKKKKKKKKKKKKKKKKKo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboaCCCCCCboaCboooooKKKKKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboaCCCCCCboaCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboaDCCCCCboaCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboKKKKKKKKoaCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCbooooooooooaCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCfKKKKKKKKKKcDbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCCBBBBBBBBBBCCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCCCCCCCCCCCCCdbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooKKKKKKKKKKKKKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	</map>
+	</level>

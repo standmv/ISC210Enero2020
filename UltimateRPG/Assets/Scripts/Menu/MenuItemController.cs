@@ -63,7 +63,7 @@ public class MenuItemController : MonoBehaviour
         switch (gameObject.name)
         {
             case "StartGameItem":
-                SceneManager.LoadScene("Taberna");
+                SceneManager.LoadScene("ExplorationScene");
                 break;
 
             case "OptionsGameItem":
