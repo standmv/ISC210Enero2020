@@ -42,4 +42,7 @@
 	<row><![CDATA[ooooooooooooooooooooooaCCCCCCCCCCCCCCdbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooKKKKKKKKKKKKKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
 	</map>
+	<characters>
+    <character id="0" uniqueObjectName="Player" prefabName="Covi" posX="32" posY="18" tag="Player"/>
+	</characters>
 	</level>

@@ -45,7 +45,7 @@ public class MapManagement : MonoBehaviour
     public GameObject g;
     public GameObject o;
     public GameObject v;
-    //public GameObject PlayerPrefab;
+    public GameObject CoviPrefab;
     //public GameObject MorahPrefab;
     //public GameObject LionelPrefab;
     //public GameObject YuyuPrefab;
@@ -99,15 +99,11 @@ public class MapManagement : MonoBehaviour
             {'v', v }
         };
 
-        /* CharactersPrefabs = new Dictionary<string, GameObject>
+         CharactersPrefabs = new Dictionary<string, GameObject>
          {
-             { "Player", PlayerPrefab },
-             {"Morah", MorahPrefab },
-             {"Lionel", LionelPrefab },
-             {"Yuyu", YuyuPrefab},
-             {"Enemy1", Enemy1Prefab }
+             { "Covi", CoviPrefab }
          };
-
+        /*
          ItemsPrefabs = new Dictionary<string, GameObject>
          {
              {"ChestBanana", ChestBananaPrefab },
@@ -134,7 +130,7 @@ public class MapManagement : MonoBehaviour
         ItemsParent = GameObject.Find("Items");
         InitializeMap();
         LoadMap(0, 127, 0, 40);
-        //LoadCharacters();
+        LoadCharacters();
         //LoadItems();
 
 
