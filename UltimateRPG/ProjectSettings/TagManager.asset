@@ -55,9 +55,15 @@ TagManager:
   - name: Item
     uniqueID: 1631592671
     locked: 0
-  - name: Character
+  - name: Char
     uniqueID: 3788161529
     locked: 0
   - name: Wall
     uniqueID: 1151091417
+    locked: 0
+  - name: Character
+    uniqueID: 1802266867
+    locked: 0
+  - name: New Layer
+    uniqueID: 3505032829
     locked: 0
