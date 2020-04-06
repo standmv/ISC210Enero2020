@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6379626578724251060}
   - component: {fileID: 1585195067605880533}
   - component: {fileID: 5278703770906873113}
+  - component: {fileID: -1788515674251673133}
   m_Layer: 11
   m_Name: CoviPrefab
   m_TagString: Player
@@ -132,3 +133,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4d981f62c2384335bfb02e1a55f860b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &-1788515674251673133
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6379626578724251057}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.5, y: 0.8, z: 0.2}
+  m_Center: {x: 0.016775161, y: -0.0143787265, z: 0}

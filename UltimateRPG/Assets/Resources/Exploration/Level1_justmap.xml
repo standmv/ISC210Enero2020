@@ -43,6 +43,9 @@
 	<row><![CDATA[ooooooooooooooooooooooKKKKKKKKKKKKKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
 	</map>
 	<characters>
-    <character id="0" uniqueObjectName="Player" prefabName="Covi" posX="32" posY="18" tag="Player"/>
+    <character id="0" uniqueObjectName="Player" prefabName="CoviPrefab" posX="10" posY="18" tag="Player"/>
 	</characters>
+	<items>
+    <item id="0" uniqueObjectName="Torch" prefabName="TorchPrefab" posX="32" posY="17" tag="Ornament"/>
+	</items>
 	</level>

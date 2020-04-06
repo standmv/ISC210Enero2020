@@ -12,6 +12,7 @@ TagManager:
   - Trap
   - Live
   - Pipe
+  - Ornament
   layers:
   - Default
   - TransparentFX

@@ -50,7 +50,7 @@ public class MapManagement : MonoBehaviour
     //public GameObject LionelPrefab;
     //public GameObject YuyuPrefab;
     //public GameObject Enemy1Prefab;
-    //public GameObject ChestBananaPrefab;
+    public GameObject TorchPrefab;
     //public GameObject ChestCherryPrefab;
     //public GameObject ChestGrapePrefab;
     //public GameObject ChestLemonPrefab;
@@ -101,18 +101,13 @@ public class MapManagement : MonoBehaviour
 
          CharactersPrefabs = new Dictionary<string, GameObject>
          {
-             { "Covi", CoviPrefab }
+             { "CoviPrefab", CoviPrefab }
          };
-        /*
+        
          ItemsPrefabs = new Dictionary<string, GameObject>
          {
-             {"ChestBanana", ChestBananaPrefab },
-             {"ChestCherry", ChestCherryPrefab },
-             {"ChestGrape", ChestGrapePrefab },
-             {"ChestLemon", ChestLemonPrefab },
-             {"ChestOrange", ChestOrangePrefab },
-             {"ChestSeaweed", ChestSeaweedPrefab }
-         }; */
+             {"TorchPrefab", TorchPrefab }
+         }; 
 
         xmlDocument = new XmlDocument();
         xmlDocument.LoadXml(Resources.Load<TextAsset>(xmlPath).text);
@@ -131,7 +126,7 @@ public class MapManagement : MonoBehaviour
         InitializeMap();
         LoadMap(0, 127, 0, 40);
         LoadCharacters();
-        //LoadItems();
+        LoadItems();
 
 
     }

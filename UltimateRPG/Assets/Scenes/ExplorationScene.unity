@@ -437,3 +437,5 @@ MonoBehaviour:
   v: {fileID: 141543768088402339, guid: d3873d765da2b434ca2b3a359c4482f5, type: 3}
   CoviPrefab: {fileID: 6379626578724251057, guid: 889772149f8a64d2283a76bf89ce46b4,
     type: 3}
+  TorchPrefab: {fileID: 6258047278976005568, guid: 28a20bad1a0d74f8285d73443de90820,
+    type: 3}
