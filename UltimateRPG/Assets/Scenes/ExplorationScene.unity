@@ -439,6 +439,18 @@ MonoBehaviour:
     type: 3}
   KnightPrefab: {fileID: 1030245268440231583, guid: f4cb16a2476cd459395a005e01d4018d,
     type: 3}
+  OfficerPrefab: {fileID: 7210714544781502378, guid: 0081ad5c1452343b58cd80583de3012c,
+    type: 3}
+  ChrisPrefab: {fileID: 8160688515213810811, guid: a4b6d755c3df54b8d9d5f94637cd1557,
+    type: 3}
+  ArisPrefab: {fileID: 5268511312172662624, guid: 62ed51510c47e428090f97a429b42a8e,
+    type: 3}
+  YojaPrefab: {fileID: 5219513683957090448, guid: f7963dc1005e249fb9c63405cddb8b14,
+    type: 3}
+  MustacherPrefab: {fileID: 3141005667482723160, guid: 2378f5343567f4970825fe81c875c984,
+    type: 3}
+  AileenPrefab: {fileID: 743375703734384732, guid: 084cb3ca0b7984ff4b6f2d6070b67e53,
+    type: 3}
   TorchPrefab: {fileID: 6258047278976005568, guid: 28a20bad1a0d74f8285d73443de90820,
     type: 3}
   BarrelPrefab: {fileID: 303750749434023659, guid: f1bb9633895134c1ba5e067ab4a3d186,

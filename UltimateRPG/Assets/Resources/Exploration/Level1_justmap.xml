@@ -45,6 +45,12 @@
 	<characters>
     <character id="0" uniqueObjectName="Player" prefabName="CoviPrefab" posX="10" posY="18" tag="Player"/>
     <character id="1" uniqueObjectName="Enemy1" prefabName="KnightPrefab" posX="113" posY="14" tag="Enemy"/>
+    <character id="2" uniqueObjectName="Mustacher" prefabName="MustacherPrefab" posX="125.5" posY="29" tag="NPC"/>
+    <character id="3" uniqueObjectName="Officer" prefabName="OfficerPrefab" posX="125" posY="3" tag="NPC"/>
+    <character id="4" uniqueObjectName="Aris" prefabName="ArisPrefab" posX="100.5" posY="13" tag="NPC"/>
+    <character id="5" uniqueObjectName="Aileen" prefabName="AileenPrefab" posX="44.5" posY="30" tag="NPC"/>
+    <character id="6" uniqueObjectName="Chris" prefabName="ChrisPrefab" posX="33.5" posY="18" tag="NPC"/>
+    <character id="7" uniqueObjectName="Yoja" prefabName="YojaPrefab" posX="53.5" posY="6" tag="NPC"/>
 	</characters>
 	<items>
     <item id="0" uniqueObjectName="Torch" prefabName="TorchPrefab" posX="32" posY="17" tag="Ornament"/>

@@ -14,6 +14,7 @@ TagManager:
   - Pipe
   - Ornament
   - Enemy
+  - NPC
   layers:
   - Default
   - TransparentFX

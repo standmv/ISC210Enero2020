@@ -1,7 +1,127 @@
 fileFormatVersion: 2
 guid: 7565f4ae9913847cfbb342a618e838c7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -9188633534002885505
+    second: Aris_0
+  - first:
+      213: 8365159471141680862
+    second: Aris_1
+  - first:
+      213: -6815649902193856275
+    second: Aris_2
+  - first:
+      213: -5681832100081059424
+    second: Aris_3
+  - first:
+      213: 3001581969951654232
+    second: Aris_4
+  - first:
+      213: 4105662440199780392
+    second: Aris_5
+  - first:
+      213: -6734454951194867298
+    second: Aris_6
+  - first:
+      213: -7683267323450222534
+    second: Aris_7
+  - first:
+      213: 7838455949315947366
+    second: Aris_8
+  - first:
+      213: 6166550882438864173
+    second: Aris_9
+  - first:
+      213: 9198795435035789793
+    second: Aris_10
+  - first:
+      213: -6053766522715875676
+    second: Aris_11
+  - first:
+      213: -369425471628585789
+    second: Aris_12
+  - first:
+      213: 8747068003024623559
+    second: Aris_13
+  - first:
+      213: -1151056417411036880
+    second: Aris_14
+  - first:
+      213: 4297573841122957116
+    second: Aris_15
+  - first:
+      213: -2697574172017972041
+    second: Aris_16
+  - first:
+      213: -2873781235557964729
+    second: Aris_17
+  - first:
+      213: 770513902277364406
+    second: Aris_18
+  - first:
+      213: 1786747344774194377
+    second: Aris_19
+  - first:
+      213: 3185354286770218017
+    second: Aris_20
+  - first:
+      213: -5008087238205358973
+    second: Aris_21
+  - first:
+      213: -8825171993366434184
+    second: Aris_22
+  - first:
+      213: -6415715784791868972
+    second: Aris_23
+  - first:
+      213: -6852069529020562913
+    second: Aris_24
+  - first:
+      213: 4415682287737954200
+    second: Aris_25
+  - first:
+      213: 2726909745041583072
+    second: Aris_26
+  - first:
+      213: 1202572550423150135
+    second: Aris_27
+  - first:
+      213: -2640852560425579350
+    second: Aris_28
+  - first:
+      213: -1472933435315977016
+    second: Aris_29
+  - first:
+      213: 4946615494833437303
+    second: Aris_30
+  - first:
+      213: -314989277532809965
+    second: Aris_31
+  - first:
+      213: -3578190512346808080
+    second: Aris_32
+  - first:
+      213: 8451994928050797862
+    second: Aris_33
+  - first:
+      213: -3870911257285321922
+    second: Aris_34
+  - first:
+      213: 9116925451984957879
+    second: Aris_35
+  - first:
+      213: 5740407452159928361
+    second: Aris_36
+  - first:
+      213: -3754114891931219959
+    second: Aris_37
+  - first:
+      213: -8264533024068664767
+    second: Aris_38
+  - first:
+      213: 1842318775733837561
+    second: Aris_39
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +161,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,9 +193,861 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Aris_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 577
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c048afb7a6b7080800000000000000
+      internalID: -9188633534002885505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 577
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f4eee734071470800000000000000
+      internalID: 8365159471141680862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 577
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de03f4a5682f961a0800000000000000
+      internalID: -6815649902193856275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 577
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9b1410fc31621b0800000000000000
+      internalID: -5681832100081059424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8518f2b06e2c7a920800000000000000
+      internalID: 3001581969951654232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 512
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82875c39c3e3af830800000000000000
+      internalID: 4105662440199780392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 512
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99c82e07e86a82a0800000000000000
+      internalID: -6734454951194867298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 513
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a381267b31d8f5590800000000000000
+      internalID: -7683267323450222534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 449
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b368ee72ac7cc60800000000000000
+      internalID: 7838455949315947366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 449
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dd3251b5df39550800000000000000
+      internalID: 6166550882438864173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 449
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e90bcaf5bfa8af70800000000000000
+      internalID: 9198795435035789793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 449
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a65e5cfb63bcfba0800000000000000
+      internalID: -6053766522715875676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 232
+        width: 176
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d898ad798fdaf0800000000000000
+      internalID: -369425471628585789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d77a3104d36970800000000000000
+      internalID: 8747068003024623559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 384
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03908c37940a600f0800000000000000
+      internalID: -1151056417411036880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37152493ac04ab30800000000000000
+      internalID: 4297573841122957116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 385
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca999359a409ad0800000000000000
+      internalID: -2697574172017972041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744626431374e18d0800000000000000
+      internalID: -2873781235557964729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 257
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba0ebfcf4a61ba00800000000000000
+      internalID: 770513902277364406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 257
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c463a45e3dcbc810800000000000000
+      internalID: 1786747344774194377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124e4bad8d6a43c20800000000000000
+      internalID: 3185354286770218017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3a9ad033bf7ab0800000000000000
+      internalID: -5008087238205358973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eeaad64d0b68580800000000000000
+      internalID: -8825171993366434184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 193
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d93d935c7cc6f6a0800000000000000
+      internalID: -6415715784791868972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128372311f88e0a0800000000000000
+      internalID: -6852069529020562913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fda9935a7a74d30800000000000000
+      internalID: 4415682287737954200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb21cf17fde7d520800000000000000
+      internalID: 2726909745041583072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7b94fc5560b010800000000000000
+      internalID: 1202572550423150135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac07af869ec95bd0800000000000000
+      internalID: -2640852560425579350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4023238d61f8be0800000000000000
+      internalID: -1472933435315977016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a7df19598e5a440800000000000000
+      internalID: 4946615494833437303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 65
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3159994cbeee0abf0800000000000000
+      internalID: -314989277532809965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 65
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f045e4efa6b75ec0800000000000000
+      internalID: -3578190512346808080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_33
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 52
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dfed14b948b4570800000000000000
+      internalID: 8451994928050797862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_34
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 54
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b927078b2c74ac0800000000000000
+      internalID: -3870911257285321922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_35
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 38
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1f7412563d58e70800000000000000
+      internalID: 9116925451984957879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_36
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9286ffbe9260aaf40800000000000000
+      internalID: 5740407452159928361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_37
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 23
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9088f6c5564b6ebc0800000000000000
+      internalID: -3754114891931219959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_38
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 23
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14207e1800b7e4d80800000000000000
+      internalID: -8264533024068664767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aris_39
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 24
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed5ae5a2b319910800000000000000
+      internalID: 1842318775733837561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

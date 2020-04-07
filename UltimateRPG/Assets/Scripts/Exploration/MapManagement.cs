@@ -47,14 +47,17 @@ public class MapManagement : MonoBehaviour
     public GameObject v;
     public GameObject CoviPrefab;
     public GameObject KnightPrefab;
-    //public GameObject LionelPrefab;
-    //public GameObject YuyuPrefab;
-    //public GameObject Enemy1Prefab;
+    public GameObject OfficerPrefab;
+    public GameObject ChrisPrefab;
+    public GameObject ArisPrefab;
+    public GameObject YojaPrefab;
+    public GameObject MustacherPrefab;
+    public GameObject AileenPrefab;
     public GameObject TorchPrefab;
     public GameObject BarrelPrefab;
-    //public GameObject ChestGrapePrefab;
-    //public GameObject ChestLemonPrefab;
-    //public GameObject ChestOrangePrefab;
+    
+    
+    
     //public GameObject ChestSeaweedPrefab;
 
 
@@ -102,7 +105,13 @@ public class MapManagement : MonoBehaviour
          CharactersPrefabs = new Dictionary<string, GameObject>
          {
              { "CoviPrefab", CoviPrefab },
-             {"KnightPrefab", KnightPrefab }
+             {"KnightPrefab", KnightPrefab },
+             {"AileenPrefab", AileenPrefab },
+             {"YojaPrefab", YojaPrefab },
+             {"OfficerPrefab", OfficerPrefab },
+             {"ChrisPrefab", ChrisPrefab },
+             {"MustacherPrefab", MustacherPrefab },
+             {"ArisPrefab", ArisPrefab }
          };
         
          ItemsPrefabs = new Dictionary<string, GameObject>

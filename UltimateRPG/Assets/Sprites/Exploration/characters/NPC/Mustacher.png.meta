@@ -1,7 +1,130 @@
 fileFormatVersion: 2
 guid: d0a74e88a27464a5280c83aecc8b585b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7949733726589973411
+    second: Mustacher_0
+  - first:
+      213: 8305329584379025637
+    second: Mustacher_1
+  - first:
+      213: -489841968873880239
+    second: Mustacher_2
+  - first:
+      213: -7376916802584950874
+    second: Mustacher_3
+  - first:
+      213: -5080108412160981014
+    second: Mustacher_4
+  - first:
+      213: -5617996522988428004
+    second: Mustacher_5
+  - first:
+      213: 5424558325200328251
+    second: Mustacher_6
+  - first:
+      213: -5528691872230287213
+    second: Mustacher_7
+  - first:
+      213: 2435563127949019875
+    second: Mustacher_8
+  - first:
+      213: -2037026563600099334
+    second: Mustacher_9
+  - first:
+      213: 4330763093313892867
+    second: Mustacher_10
+  - first:
+      213: 3649595770302471323
+    second: Mustacher_11
+  - first:
+      213: -8330893958993038742
+    second: Mustacher_12
+  - first:
+      213: 1301593611663500548
+    second: Mustacher_13
+  - first:
+      213: 6858292828064351564
+    second: Mustacher_14
+  - first:
+      213: 6431588119745435523
+    second: Mustacher_15
+  - first:
+      213: -7430491434169519707
+    second: Mustacher_16
+  - first:
+      213: 4695802554421894739
+    second: Mustacher_17
+  - first:
+      213: 5031895519010121576
+    second: Mustacher_18
+  - first:
+      213: -4196458690482873591
+    second: Mustacher_19
+  - first:
+      213: -8334379009600060438
+    second: Mustacher_20
+  - first:
+      213: -973586456389952368
+    second: Mustacher_21
+  - first:
+      213: 3282986281376482318
+    second: Mustacher_22
+  - first:
+      213: -4848430156071656687
+    second: Mustacher_23
+  - first:
+      213: -8609448788396759410
+    second: Mustacher_24
+  - first:
+      213: -2651663644146287129
+    second: Mustacher_25
+  - first:
+      213: -5328428271718402840
+    second: Mustacher_26
+  - first:
+      213: -3150817826733975436
+    second: Mustacher_27
+  - first:
+      213: -2214216213063443442
+    second: Mustacher_28
+  - first:
+      213: 8129792226988178510
+    second: Mustacher_29
+  - first:
+      213: 2475609534100882863
+    second: Mustacher_30
+  - first:
+      213: -3810713130161362501
+    second: Mustacher_31
+  - first:
+      213: -5406164232414933934
+    second: Mustacher_32
+  - first:
+      213: 5472580129241348164
+    second: Mustacher_33
+  - first:
+      213: 1237081087432395548
+    second: Mustacher_34
+  - first:
+      213: -1389630049968480395
+    second: Mustacher_35
+  - first:
+      213: -5996244564462466841
+    second: Mustacher_36
+  - first:
+      213: 3618824983169131109
+    second: Mustacher_37
+  - first:
+      213: 7982475867729530464
+    second: Mustacher_38
+  - first:
+      213: 6792512012453976816
+    second: Mustacher_39
+  - first:
+      213: -2655885520108049065
+    second: Mustacher_40
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +164,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,9 +196,882 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mustacher_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 577
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c89af8b4fdca190800000000000000
+      internalID: -7949733726589973411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 577
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85473e045724370800000000000000
+      internalID: 8305329584379025637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 577
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155c139135bb339f0800000000000000
+      internalID: -489841968873880239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 577
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7405ca04def9990800000000000000
+      internalID: -7376916802584950874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 513
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7cba09054df79b0800000000000000
+      internalID: -5080108412160981014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 512
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1525e18dedd802b0800000000000000
+      internalID: -5617996522988428004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 512
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3614f46e07e74b40800000000000000
+      internalID: 5424558325200328251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 513
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398df13d8042643b0800000000000000
+      internalID: -5528691872230287213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 449
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac07db2cbdcc120800000000000000
+      internalID: 2435563127949019875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 449
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d49e02270bb3e0800000000000000
+      internalID: -2037026563600099334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 449
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302b8578616f91c30800000000000000
+      internalID: 4330763093313892867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 449
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c95a64408f5a230800000000000000
+      internalID: 3649595770302471323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 232
+        width: 176
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b5c05518b26c80800000000000000
+      internalID: -8330893958993038742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 385
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ee116e70301210800000000000000
+      internalID: 1301593611663500548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4582668dfc8d2f50800000000000000
+      internalID: 6858292828064351564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 384
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3879c03a157914950800000000000000
+      internalID: 6431588119745435523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 385
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a13eb7b86791e890800000000000000
+      internalID: -7430491434169519707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 257
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e50b73b87da2140800000000000000
+      internalID: 4695802554421894739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 257
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8676a7d7052e4d540800000000000000
+      internalID: 5031895519010121576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 257
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bda270e0f23c5c0800000000000000
+      internalID: -4196458690482873591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 257
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3015db276565c80800000000000000
+      internalID: -8334379009600060438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cdeb4b6402d72f0800000000000000
+      internalID: -973586456389952368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e040deff0a28f8d20800000000000000
+      internalID: 3282986281376482318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 193
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ae0d067ae6bcb0800000000000000
+      internalID: -4848430156071656687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a1b711f7158880800000000000000
+      internalID: -8609448788396759410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb7daf6f5633bd0800000000000000
+      internalID: -2651663644146287129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47315d7be9d06b0800000000000000
+      internalID: -5328428271718402840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789d8d51eb0644d0800000000000000
+      internalID: -3150817826733975436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 129
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c517ce5168541e0800000000000000
+      internalID: -2214216213063443442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cbc5bf4f2d2d070800000000000000
+      internalID: 8129792226988178510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa547a241c12b5220800000000000000
+      internalID: 2475609534100882863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 65
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a0df1990ad1bc0800000000000000
+      internalID: -3810713130161362501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4c71164279f4b0800000000000000
+      internalID: -5406164232414933934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 53
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ba40f1a282fb40800000000000000
+      internalID: 5472580129241348164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_34
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 52
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b03c6d1befa2110800000000000000
+      internalID: 1237081087432395548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_35
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 54
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f9b6605da07bce0800000000000000
+      internalID: -1389630049968480395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_36
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 38
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e809dc865f09cca0800000000000000
+      internalID: -5996244564462466841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_37
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ea1a1626a83230800000000000000
+      internalID: 3618824983169131109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 23
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e852c328377ce60800000000000000
+      internalID: 7982475867729530464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_39
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 23
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa94e2efa9d34e50800000000000000
+      internalID: 6792512012453976816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustacher_40
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 24
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d2bd1e036642bd0800000000000000
+      internalID: -2655885520108049065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,121 @@
 fileFormatVersion: 2
 guid: 55fa70a3d12d84097a92f5937945a155
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7472441191324275233
+    second: Aileen_0
+  - first:
+      213: -8926343804028029025
+    second: Aileen_1
+  - first:
+      213: 6169162842261347778
+    second: Aileen_2
+  - first:
+      213: -5264228775987331459
+    second: Aileen_3
+  - first:
+      213: 7340647817994548095
+    second: Aileen_4
+  - first:
+      213: 3803281056700455982
+    second: Aileen_5
+  - first:
+      213: 4837855568580359007
+    second: Aileen_6
+  - first:
+      213: -8342376272403466010
+    second: Aileen_7
+  - first:
+      213: -3955316158897894442
+    second: Aileen_8
+  - first:
+      213: -1892758384084419795
+    second: Aileen_9
+  - first:
+      213: -7601206962356452239
+    second: Aileen_10
+  - first:
+      213: -5609644501534488083
+    second: Aileen_11
+  - first:
+      213: -4879529920191948601
+    second: Aileen_12
+  - first:
+      213: 1449344680291104674
+    second: Aileen_13
+  - first:
+      213: -5764229932251965296
+    second: Aileen_14
+  - first:
+      213: 2090166326653364903
+    second: Aileen_15
+  - first:
+      213: 1919302419268330641
+    second: Aileen_16
+  - first:
+      213: -6788458136338285826
+    second: Aileen_17
+  - first:
+      213: 5647889822107320041
+    second: Aileen_18
+  - first:
+      213: 8522530158157001697
+    second: Aileen_19
+  - first:
+      213: -7053776151975633065
+    second: Aileen_20
+  - first:
+      213: -7122265559891370019
+    second: Aileen_21
+  - first:
+      213: 8180260596390494279
+    second: Aileen_22
+  - first:
+      213: 406667018680731302
+    second: Aileen_23
+  - first:
+      213: 31545482616475015
+    second: Aileen_24
+  - first:
+      213: 5877364283830823197
+    second: Aileen_25
+  - first:
+      213: -7546451440193600429
+    second: Aileen_26
+  - first:
+      213: -1046806519751827396
+    second: Aileen_27
+  - first:
+      213: 4548134123310909565
+    second: Aileen_28
+  - first:
+      213: -1829937012231622027
+    second: Aileen_29
+  - first:
+      213: 8241570808434026968
+    second: Aileen_30
+  - first:
+      213: 8226289692135609306
+    second: Aileen_31
+  - first:
+      213: 6418592430069278533
+    second: Aileen_32
+  - first:
+      213: -8707269009006607078
+    second: Aileen_33
+  - first:
+      213: 1198520850149843037
+    second: Aileen_34
+  - first:
+      213: 3644160726158197763
+    second: Aileen_35
+  - first:
+      213: -8242192072409994045
+    second: Aileen_36
+  - first:
+      213: 3317179233215404038
+    second: Aileen_37
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +155,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,9 +187,819 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Aileen_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 578
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12251ed3ca173b760800000000000000
+      internalID: 7472441191324275233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 577
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9776e1aa914f1480800000000000000
+      internalID: -8926343804028029025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 577
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdd68e5be44d9550800000000000000
+      internalID: 6169162842261347778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 578
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb2eeb1d3b1f6b0800000000000000
+      internalID: -5264228775987331459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 514
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73bfcc4c483fd560800000000000000
+      internalID: 7340647817994548095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 449
+        width: 37
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c5a9d68f7f7c430800000000000000
+      internalID: 3803281056700455982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 449
+        width: 37
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53b0efe104832340800000000000000
+      internalID: 4837855568580359007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 514
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87eb4eafce93c80800000000000000
+      internalID: -8342376272403466010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 450
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db478ed8e4eb19c0800000000000000
+      internalID: -3955316158897894442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 450
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b710727429bb5e0800000000000000
+      internalID: -1892758384084419795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 232
+        width: 144
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17484886a86138690800000000000000
+      internalID: -7601206962356452239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 386
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de940d90c0a8622b0800000000000000
+      internalID: -5609644501534488083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 384
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89114f36d684cb0800000000000000
+      internalID: -4879529920191948601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 384
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a77ad9ce4b1d1410800000000000000
+      internalID: 1449344680291104674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 386
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0989274ba675100b0800000000000000
+      internalID: -5764229932251965296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa28ad2333c10d10800000000000000
+      internalID: 2090166326653364903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 257
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946905a16bb2aa10800000000000000
+      internalID: 1919302419268330641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 257
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa32f2ba4d8ac1a0800000000000000
+      internalID: -6788458136338285826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee30419ed5516e40800000000000000
+      internalID: 5647889822107320041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e37088460c164670800000000000000
+      internalID: 8522530158157001697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 193
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fde5856f3fb1e90800000000000000
+      internalID: -7053776151975633065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1daa6531a82d90800000000000000
+      internalID: -7122265559891370019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 194
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7400bf9ebaf168170800000000000000
+      internalID: 8180260596390494279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60556bf75c4a500800000000000000
+      internalID: 406667018680731302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 129
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8f950372107000800000000000000
+      internalID: 31545482616475015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 129
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19ed413da7909150800000000000000
+      internalID: 5877364283830823197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 130
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3548680e56e954790800000000000000
+      internalID: -7546451440193600429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3021a9340ff871f0800000000000000
+      internalID: -1046806519751827396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_28
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 65
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7887ca53e73e1f30800000000000000
+      internalID: 4548134123310909565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 65
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57238989bf1ca96e0800000000000000
+      internalID: -1829937012231622027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d960fb0cf0ff5270800000000000000
+      internalID: 8241570808434026968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_31
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 52
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35337e3e6a92270800000000000000
+      internalID: 8226289692135609306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_32
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5476a48decb631950800000000000000
+      internalID: 6418592430069278533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_33
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 38
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c46a28f0992780800000000000000
+      internalID: -8707269009006607078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50a419fc5002a010800000000000000
+      internalID: 1198520850149843037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_35
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 23
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c6137fd8a29230800000000000000
+      internalID: 3644160726158197763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_36
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 23
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc2679aaf9dd9d80800000000000000
+      internalID: -8242192072409994045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileen_37
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 24
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6085b1cffecf80e20800000000000000
+      internalID: 3317179233215404038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
