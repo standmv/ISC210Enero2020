@@ -57,7 +57,7 @@
     <character id="7" uniqueObjectName="Yoja" prefabName="YojaPrefab" posX="53.5" posY="6" coins="0" tag="NPC"/>
 	</characters>
 	<items>
-    <item id="0" uniqueObjectName="Torch1" prefabName="TorchPrefab" posX="32" posY="17" price="0" tag="Ornament"/>
+    <item id="0" uniqueObjectName="Torch1" prefabName="TorchPrefab" posX="33" posY="17" price="0" tag="Ornament"/>
     <item id="1" uniqueObjectName="Torch2" prefabName="TorchPrefab" posX="3" posY="14" price="0" tag="Ornament"/>
     <item id="2" uniqueObjectName="Torch3" prefabName="TorchPrefab" posX="6" posY="14" price="0" tag="Ornament"/>
     <item id="3" uniqueObjectName="Torch4" prefabName="TorchPrefab" posX="9" posY="14" price="0" tag="Ornament"/>
