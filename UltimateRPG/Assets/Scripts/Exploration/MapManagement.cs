@@ -51,7 +51,7 @@ public class MapManagement : MonoBehaviour
     //public GameObject YuyuPrefab;
     //public GameObject Enemy1Prefab;
     public GameObject TorchPrefab;
-    //public GameObject ChestCherryPrefab;
+    public GameObject BarrelPrefab;
     //public GameObject ChestGrapePrefab;
     //public GameObject ChestLemonPrefab;
     //public GameObject ChestOrangePrefab;
@@ -106,7 +106,8 @@ public class MapManagement : MonoBehaviour
         
          ItemsPrefabs = new Dictionary<string, GameObject>
          {
-             {"TorchPrefab", TorchPrefab }
+             {"TorchPrefab", TorchPrefab },
+             {"BarrelPrefab", BarrelPrefab }
          }; 
 
         xmlDocument = new XmlDocument();

@@ -2,11 +2,11 @@
 <level>
 	<map width="128" height="40" tilewidth="64" tileheight="64">
 	<row><![CDATA[oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooooooooooooKKMTLMTKKKKKKKoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooKKKKKKKKKKKKo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooKKMTLKKKKKKMTLoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooKKKKKKKKKKKKo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooooooooooooaBvBvBBvBvbEvboooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooavvABBABAABbo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDboooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCDDbo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDboooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCdDbo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCDbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooKMTLKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCDbo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooaBABbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCCbo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooaCCCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCCbo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooooooooooooaCCCCCCCCCbGDbooooaDDCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaCCCCCCCCCCbo]]></row>
@@ -18,7 +18,7 @@
 	<row><![CDATA[KKNNKNKNKKNKKNKKKKKKKKcCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCCCCCCdCCCCCCCCCCCDCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCCCCCCCCCCCbo]]></row>
 	<row><![CDATA[ABABvvBBABBABAvBAABABvCCCCCCCbNNNNNNaCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCCCCCCdCCCCCCCCCCCDDCCCCCCCCCDDCCCCCCCCCCDCCCCCCCCCCCCCCCCCbo]]></row>
 	<row><![CDATA[CFCCCFCCCCCCCCCCDCCCCCCCCCCCCbooooooaCCCCCCCCCCCCCCCCCCCCCCDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCdDCCCCCCCCCCCCCCCCCCCCCCCCCCCCbo]]></row>
-	<row><![CDATA[CCCCCCCCCCCCCCCCCCCCCCCCCCCCCboNNNNoaCCCCCCCCCCCCCCCCCCCCCCbKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKabKKKKKKabKKKKKaCCCCCCCCCCbo]]></row>
+	<row><![CDATA[CCCCCCCCCCCCCCCCCCCCCCCCCCCCCboMTNNoaCCCCCCCCCCCCCCCCCCCCCCbKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKabKKKKKKabKKKKKaCCCCCCCCCCbo]]></row>
 	<row><![CDATA[CCCCCCCCCCCCDCCCCCCCDCCCCCCCCboaBBboaCCCCCCCCCCCCCCCCCCCCCCbooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCCCbo]]></row>
 	<row><![CDATA[CCCCCCCFCCCCDDCCCCCCCCCCCCCCCboaDDboaCCCCCCCCCCCCCCCCCCCCCCbooooooooooooooooooooooooooooooooooooooooabooooooaboooooaDDCCCCCCCCbo]]></row>
 	<row><![CDATA[CCCCCCCCCCCCCCCCCCFCCDCCCCCCCboaDDboaCCCCCCCCCCCCCCCCCCCCCCbooooooooooooooooooooooooooooooooooooooooabooooooaboooooaDDCCCCCCCCbo]]></row>
@@ -29,15 +29,15 @@
 	<row><![CDATA[CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDCCCCCCCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCDCbo]]></row>
 	<row><![CDATA[KKNKKNKKKNKKKNKNKKNKKNaCCCCCCCCCCCCCCDbKKKKKaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCCCbo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooaCCbKKKKKKKKKKaCboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabooooooaboooooaCCCCCCCCCCbo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCbooooooooooaCboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooabKKKKKKcfKKKKKcCCCCCCCCCCbo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCboKKKTTLKKoaCboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooaDDvDDDDDDDvDDDDDDDDDDDDDDbo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCboavBABAvboaDboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooKKKKKKKKKKKKKKKKKKKKKKKKKKKo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCboaCCCCCCboaCboooooKKKKKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCboaCCCCCCboaCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCboaDCCCCCboaCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCboKKKKKKKKoaCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCbooooooooooaCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
-	<row><![CDATA[ooooooooooooooooooooooaCCfKKKKKKKKKKcDbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCbooooooooooaCboooooaCCCCCCCboooooooooooooooooooooooooooooooooooooooooooooooafKKKKKKcfKKKKKcCCCCCCCCCCbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboKKMTTLKKoaCboooooaCCCCCCCboooooooooooooooooooKKKMTLKKKoooooooooooooooooooaDDvDDDDDDDvDDDDDDDDDDDDDDbo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboavBABAvboaDboooooaCCCCCCCboooooooooooooooooooavvBBBvvboooooooooooooooooooKKKKKKKKKKKKKKKKKKKKKKKKKKKo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboaCCCCCCboaCboooooKKKKKKKKKoooooooooooooooooooaCCCCCCdbooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboaCCCCCCboaCboooooooooooooooooooooooooooooooooaCCDDCCCboooooNKKNKKoooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboaDCCCCCboaCboooooooooooooooooooooooooooooooooaCCDCCCCboooooaBABvboooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCboKKKKKKKKoaCboooooooooooooooooooooooooooooooooaDCCCCDDfNNNNNcCCCDboooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCbooooooooooaCboooooooooooooooooooooooooooooooooaDCCCCCCCCCCCCCCCCDboooooooooooooooooooooooooooooooooooo]]></row>
+	<row><![CDATA[ooooooooooooooooooooooaCCfKKKKKKKKKKcDboooooooooooooooooooooooooooooooooKKKKKKKKKKKKKKKKKKKKoooooooooooooooooooooooooooooooooooo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooaCCCBBBBBBBBBBCCbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooaCCCCCCCCCCCCCCdbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
 	<row><![CDATA[ooooooooooooooooooooooKKKKKKKKKKKKKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
@@ -47,5 +47,10 @@
 	</characters>
 	<items>
     <item id="0" uniqueObjectName="Torch" prefabName="TorchPrefab" posX="32" posY="17" tag="Ornament"/>
+    <item id="1" uniqueObjectName="Barrel1" prefabName="BarrelPrefab" posX="28" posY="33" tag="Ornament"/>
+    <item id="2" uniqueObjectName="Barrel2" prefabName="BarrelPrefab" posX="30.5" posY="33" tag="Ornament"/>
+    <item id="3" uniqueObjectName="Barrel3" prefabName="BarrelPrefab" posX="33" posY="33" tag="Ornament"/>
+    <item id="4" uniqueObjectName="Barrel4" prefabName="BarrelPrefab" posX="28" posY="31" tag="Ornament"/>
+	<item id="5" uniqueObjectName="Barrel5" prefabName="BarrelPrefab" posX="33" posY="31" tag="Ornament"/>
 	</items>
 	</level>

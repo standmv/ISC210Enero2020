@@ -25,4 +25,5 @@ public class ExplorationPlayerController : MonoBehaviour
         gameObject.GetComponent<Rigidbody>().velocity = _deltaPos;
 
     }
+
 }
