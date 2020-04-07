@@ -46,7 +46,7 @@ public class MapManagement : MonoBehaviour
     public GameObject o;
     public GameObject v;
     public GameObject CoviPrefab;
-    //public GameObject MorahPrefab;
+    public GameObject KnightPrefab;
     //public GameObject LionelPrefab;
     //public GameObject YuyuPrefab;
     //public GameObject Enemy1Prefab;
@@ -101,7 +101,8 @@ public class MapManagement : MonoBehaviour
 
          CharactersPrefabs = new Dictionary<string, GameObject>
          {
-             { "CoviPrefab", CoviPrefab }
+             { "CoviPrefab", CoviPrefab },
+             {"KnightPrefab", KnightPrefab }
          };
         
          ItemsPrefabs = new Dictionary<string, GameObject>

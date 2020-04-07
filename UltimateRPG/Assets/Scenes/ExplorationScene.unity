@@ -437,6 +437,8 @@ MonoBehaviour:
   v: {fileID: 141543768088402339, guid: d3873d765da2b434ca2b3a359c4482f5, type: 3}
   CoviPrefab: {fileID: 6379626578724251057, guid: 889772149f8a64d2283a76bf89ce46b4,
     type: 3}
+  KnightPrefab: {fileID: 1030245268440231583, guid: f4cb16a2476cd459395a005e01d4018d,
+    type: 3}
   TorchPrefab: {fileID: 6258047278976005568, guid: 28a20bad1a0d74f8285d73443de90820,
     type: 3}
   BarrelPrefab: {fileID: 303750749434023659, guid: f1bb9633895134c1ba5e067ab4a3d186,

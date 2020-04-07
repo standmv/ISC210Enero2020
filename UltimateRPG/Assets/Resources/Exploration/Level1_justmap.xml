@@ -44,6 +44,7 @@
 	</map>
 	<characters>
     <character id="0" uniqueObjectName="Player" prefabName="CoviPrefab" posX="10" posY="18" tag="Player"/>
+    <character id="1" uniqueObjectName="Enemy1" prefabName="KnightPrefab" posX="113" posY="14" tag="Enemy"/>
 	</characters>
 	<items>
     <item id="0" uniqueObjectName="Torch" prefabName="TorchPrefab" posX="32" posY="17" tag="Ornament"/>
