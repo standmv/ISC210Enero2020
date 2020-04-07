@@ -59,5 +59,11 @@
     <item id="3" uniqueObjectName="Barrel3" prefabName="BarrelPrefab" posX="33" posY="33" tag="Ornament"/>
     <item id="4" uniqueObjectName="Barrel4" prefabName="BarrelPrefab" posX="28" posY="31" tag="Ornament"/>
 	<item id="5" uniqueObjectName="Barrel5" prefabName="BarrelPrefab" posX="33" posY="31" tag="Ornament"/>
+	<item id="6" uniqueObjectName="GunType1" prefabName="GunType1Prefab" posX="87" posY="33.5" tag="Ornament"/>
+	<item id="7" uniqueObjectName="GunType2" prefabName="GunType2Prefab" posX="90" posY="33.5" tag="Ornament"/>
+	<item id="8" uniqueObjectName="GunType3" prefabName="GunType3Prefab" posX="89" posY="35" tag="Ornament"/>
+	<item id="9" uniqueObjectName="Bullets" prefabName="BulletsPrefab" posX="73" posY="34" tag="Ornament"/>
+	<item id="10" uniqueObjectName="Backpack" prefabName="BackpackPrefab" posX="73" posY="31" tag="Ornament"/>
+	<item id="11" uniqueObjectName="MedicalKit" prefabName="MedicalKitPrefab" posX="73" posY="33.5" tag="Ornament"/>
 	</items>
 	</level>

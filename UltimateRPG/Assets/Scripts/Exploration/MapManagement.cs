@@ -55,9 +55,15 @@ public class MapManagement : MonoBehaviour
     public GameObject AileenPrefab;
     public GameObject TorchPrefab;
     public GameObject BarrelPrefab;
-    
-    
-    
+    public GameObject MedicalKitPrefab;
+    public GameObject BulletsPrefab;
+    public GameObject BackPackPrefab;
+    public GameObject GunType1Prefab;
+    public GameObject GunType2Prefab;
+    public GameObject GunType3Prefab;
+
+
+
     //public GameObject ChestSeaweedPrefab;
 
 
@@ -117,7 +123,13 @@ public class MapManagement : MonoBehaviour
          ItemsPrefabs = new Dictionary<string, GameObject>
          {
              {"TorchPrefab", TorchPrefab },
-             {"BarrelPrefab", BarrelPrefab }
+             {"BarrelPrefab", BarrelPrefab },
+             {"MedicalKitPrefab", MedicalKitPrefab },
+             {"BulletsPrefab", BulletsPrefab },
+             {"BackpackPrefab", BackPackPrefab },
+             {"GunType1Prefab", GunType1Prefab },
+             {"GunType2Prefab", GunType2Prefab },
+             {"GunType3Prefab", GunType3Prefab }
          }; 
 
         xmlDocument = new XmlDocument();

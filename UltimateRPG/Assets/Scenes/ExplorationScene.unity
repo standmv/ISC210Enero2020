@@ -455,3 +455,15 @@ MonoBehaviour:
     type: 3}
   BarrelPrefab: {fileID: 303750749434023659, guid: f1bb9633895134c1ba5e067ab4a3d186,
     type: 3}
+  MedicalKitPrefab: {fileID: 2315465438423632671, guid: cea578be131154a5c902f492aa9d0297,
+    type: 3}
+  BulletsPrefab: {fileID: 1458443600730383259, guid: b74c64f9bc53e44bbb5a9c7ba271d63e,
+    type: 3}
+  BackPackPrefab: {fileID: 2973938641327424940, guid: 9dd2e15b411894085a468d77122b6b48,
+    type: 3}
+  GunType1Prefab: {fileID: 1478225396618599155, guid: 095ed9fa611864534ac41433b07a1fc3,
+    type: 3}
+  GunType2Prefab: {fileID: 3656392357068008216, guid: d93d491805f15498ab66fb92e0af0c32,
+    type: 3}
+  GunType3Prefab: {fileID: 6277370507147297367, guid: de249a9613b214777a77f0c9cb44e307,
+    type: 3}

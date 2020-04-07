@@ -10,6 +10,7 @@ public class ExplorationPlayerController : MonoBehaviour
     void Start()
     {
         Physics.IgnoreLayerCollision(8, 11);
+        
     }
 
     // Update is called once per frame
