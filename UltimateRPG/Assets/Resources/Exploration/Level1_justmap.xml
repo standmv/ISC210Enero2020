@@ -43,27 +43,27 @@
 	<row><![CDATA[ooooooooooooooooooooooKKKKKKKKKKKKKKKKKooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo]]></row>
 	</map>
 	<characters>
-    <character id="0" uniqueObjectName="Player" prefabName="CoviPrefab" posX="10" posY="18" tag="Player"/>
-    <character id="1" uniqueObjectName="Enemy1" prefabName="KnightPrefab" posX="113" posY="14" tag="Enemy"/>
-    <character id="2" uniqueObjectName="Mustacher" prefabName="MustacherPrefab" posX="125.5" posY="29" tag="NPC"/>
-    <character id="3" uniqueObjectName="Officer" prefabName="OfficerPrefab" posX="125" posY="3" tag="NPC"/>
-    <character id="4" uniqueObjectName="Aris" prefabName="ArisPrefab" posX="100.5" posY="13" tag="NPC"/>
-    <character id="5" uniqueObjectName="Aileen" prefabName="AileenPrefab" posX="44.5" posY="30" tag="NPC"/>
-    <character id="6" uniqueObjectName="Chris" prefabName="ChrisPrefab" posX="33.5" posY="18" tag="NPC"/>
-    <character id="7" uniqueObjectName="Yoja" prefabName="YojaPrefab" posX="53.5" posY="6" tag="NPC"/>
+    <character id="0" uniqueObjectName="Player" prefabName="CoviPrefab" posX="10" posY="18" coins="200" tag="Player"/>
+    <character id="1" uniqueObjectName="Enemy1" prefabName="KnightPrefab" posX="113" posY="14" coins="0" tag="Enemy"/>
+    <character id="2" uniqueObjectName="Mustacher" prefabName="MustacherPrefab" posX="125.5" posY="29" coins="0" tag="NPC"/>
+    <character id="3" uniqueObjectName="Officer" prefabName="OfficerPrefab" posX="125" posY="3" coins="0" tag="NPC"/>
+    <character id="4" uniqueObjectName="Aris" prefabName="ArisPrefab" posX="100.5" posY="13" coins="0" tag="NPC"/>
+    <character id="5" uniqueObjectName="Aileen" prefabName="AileenPrefab" posX="44.5" posY="30" coins="0" tag="NPC"/>
+    <character id="6" uniqueObjectName="Chris" prefabName="ChrisPrefab" posX="33.5" posY="18" coins="0" tag="NPC"/>
+    <character id="7" uniqueObjectName="Yoja" prefabName="YojaPrefab" posX="53.5" posY="6" coins="0" tag="NPC"/>
 	</characters>
 	<items>
-    <item id="0" uniqueObjectName="Torch" prefabName="TorchPrefab" posX="32" posY="17" tag="Ornament"/>
-    <item id="1" uniqueObjectName="Barrel1" prefabName="BarrelPrefab" posX="28" posY="33" tag="Ornament"/>
-    <item id="2" uniqueObjectName="Barrel2" prefabName="BarrelPrefab" posX="30.5" posY="33" tag="Ornament"/>
-    <item id="3" uniqueObjectName="Barrel3" prefabName="BarrelPrefab" posX="33" posY="33" tag="Ornament"/>
-    <item id="4" uniqueObjectName="Barrel4" prefabName="BarrelPrefab" posX="28" posY="31" tag="Ornament"/>
-	<item id="5" uniqueObjectName="Barrel5" prefabName="BarrelPrefab" posX="33" posY="31" tag="Ornament"/>
-	<item id="6" uniqueObjectName="GunType1" prefabName="GunType1Prefab" posX="87" posY="33.5" tag="Ornament"/>
-	<item id="7" uniqueObjectName="GunType2" prefabName="GunType2Prefab" posX="90" posY="33.5" tag="Ornament"/>
-	<item id="8" uniqueObjectName="GunType3" prefabName="GunType3Prefab" posX="89" posY="35" tag="Ornament"/>
-	<item id="9" uniqueObjectName="Bullets" prefabName="BulletsPrefab" posX="73" posY="34" tag="Ornament"/>
-	<item id="10" uniqueObjectName="Backpack" prefabName="BackpackPrefab" posX="73" posY="31" tag="Ornament"/>
-	<item id="11" uniqueObjectName="MedicalKit" prefabName="MedicalKitPrefab" posX="73" posY="33.5" tag="Ornament"/>
+    <item id="0" uniqueObjectName="Torch" prefabName="TorchPrefab" posX="32" posY="17" price="0" tag="Ornament"/>
+    <item id="1" uniqueObjectName="Barrel1" prefabName="BarrelPrefab" posX="28" posY="33" price="0" tag="Ornament"/>
+    <item id="2" uniqueObjectName="Barrel2" prefabName="BarrelPrefab" posX="30.5" posY="33" price="0" tag="Ornament"/>
+    <item id="3" uniqueObjectName="Barrel3" prefabName="BarrelPrefab" posX="33" posY="33" price="0" tag="Ornament"/>
+    <item id="4" uniqueObjectName="Barrel4" prefabName="BarrelPrefab" posX="28" posY="31" price="0" tag="Ornament"/>
+	<item id="5" uniqueObjectName="Barrel5" prefabName="BarrelPrefab" posX="33" posY="31" price="0" tag="Ornament"/>
+	<item id="6" uniqueObjectName="GunType1" prefabName="GunType1Prefab" posX="87" posY="33" price="20" tag="Stock"/>
+	<item id="7" uniqueObjectName="GunType2" prefabName="GunType2Prefab" posX="90" posY="33" price="30" tag="Stock"/>
+	<item id="8" uniqueObjectName="GunType3" prefabName="GunType3Prefab" posX="89" posY="35" price="50" tag="Stock"/>
+	<item id="9" uniqueObjectName="Bullets" prefabName="BulletsPrefab" posX="79" posY="32" price="5" tag="Stock"/>
+	<item id="10" uniqueObjectName="Backpack" prefabName="BackpackPrefab" posX="73" posY="31" price="80" tag="Stock"/>
+	<item id="11" uniqueObjectName="MedicalKit" prefabName="MedicalKitPrefab" posX="73" posY="35" price="100" tag="Stock"/>
 	</items>
 	</level>

@@ -201,7 +201,8 @@ public class MapManagement : MonoBehaviour
                                          CharactersPrefabs[currentNode.Attributes["prefabName"].Value],
                                          currentNode.Attributes["uniqueObjectName"].Value,
                                          System.Convert.ToSingle(currentNode.Attributes["posX"].Value),
-                                         System.Convert.ToSingle(currentNode.Attributes["posY"].Value)
+                                         System.Convert.ToSingle(currentNode.Attributes["posY"].Value),
+                                         System.Convert.ToInt32(currentNode.Attributes["coins"].Value)
 
                 );
             Game.CurrentLevel.Characters.Add(newCharacter);
@@ -210,6 +211,7 @@ public class MapManagement : MonoBehaviour
             {
                 Camera.main.transform.SetParent(newCharacter.GetObject().transform);
                 Camera.main.transform.localPosition = new Vector3(0, 0, Camera.main.transform.position.z);
+                newCharacter.GetObject().GetComponent<ExplorationPlayerController>().Coins = newCharacter.Coins;
             }
            
         }
@@ -229,12 +231,16 @@ public class MapManagement : MonoBehaviour
                                          ItemsPrefabs[currentNode.Attributes["prefabName"].Value],
                                          currentNode.Attributes["uniqueObjectName"].Value,
                                          System.Convert.ToSingle(currentNode.Attributes["posX"].Value),
-                                         System.Convert.ToSingle(currentNode.Attributes["posY"].Value)
+                                         System.Convert.ToSingle(currentNode.Attributes["posY"].Value),
+                                         System.Convert.ToInt32(currentNode.Attributes["price"].Value)
 
                 );
             Game.CurrentLevel.Items.Add(newItem);
             newItem.GetObject().transform.SetParent(ItemsParent.transform);
-
+            if (newItem.Tag == "Stock")
+            {
+                newItem.GetObject().GetComponent<StoreItemsController>().Price = newItem.Price;
+            }
         }
 
     }

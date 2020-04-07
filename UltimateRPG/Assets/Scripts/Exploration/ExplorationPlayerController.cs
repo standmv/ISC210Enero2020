@@ -6,11 +6,20 @@ public class ExplorationPlayerController : MonoBehaviour
 {
     Vector3 _movementSpeed = new Vector3(10, 10), _deltaPos;
     Vector3 _runningSpeed = new Vector3(15, 15);
+    public int Coins;
+    public Dictionary<string, int> Stock = new Dictionary<string, int>
+    {
+        {"MedicalKit", 0 },
+        {"Bullets", 0 },
+        {"Backpack", 0 },
+        {"GunType1", 0 },
+        {"GunType2", 0 },
+        {"GunType3", 0 }
+    };
     // Start is called before the first frame update
     void Start()
     {
         Physics.IgnoreLayerCollision(8, 11);
-        
     }
 
     // Update is called once per frame

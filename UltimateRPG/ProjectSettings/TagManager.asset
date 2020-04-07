@@ -15,6 +15,7 @@ TagManager:
   - Ornament
   - Enemy
   - NPC
+  - Stock
   layers:
   - Default
   - TransparentFX
